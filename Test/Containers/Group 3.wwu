@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{88F9395B-3065-4C9A-AA17-DB17C8C2E681}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Group 3" ID="{88F9395B-3065-4C9A-AA17-DB17C8C2E681}" PersistMode="Standalone">
+			<ChildrenList>
+				<PropertyContainer Name="footstep" ID="{84851683-4EF2-45FD-B88C-D26B4B1C243C}" ShortID="611315818">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SwitchContainer Name="footstep" ID="{6FECC6B7-2C8C-471A-BC0F-D382A06B4D84}" ShortID="658038966">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="DefaultSwitchOrState">
+									<ObjectRef Name="wood" ID="{6FBE0199-7CE2-4840-8547-563D8B88C1B1}" WorkUnitID="{702D37A4-E61F-4876-B883-B93778465BBE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+								<Reference Name="SwitchGroupOrStateGroup">
+									<ObjectRef Name="surface" ID="{76C91DF1-DC09-4263-886C-A837CC00A244}" WorkUnitID="{702D37A4-E61F-4876-B883-B93778465BBE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<RandomSequenceContainer Name="grass" ID="{6C6239DE-5A1B-4EB4-9779-882400F331B7}" ShortID="690181312">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="ff_sfx_player_walk_grass_01" ID="{C7C8435C-0B4A-4A16-8CF3-189804805564}" ShortID="6937245">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_01" ID="{DE4AEDFC-BEC3-4FC4-AF46-D8A306351315}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_01.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="568358701"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_01" ID="{DE4AEDFC-BEC3-4FC4-AF46-D8A306351315}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_02" ID="{6407E6E0-E0CF-496F-B5E6-0FDC450F12AC}" ShortID="695008031">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_02" ID="{2E6F3AF5-971A-49D9-B529-528E8576B665}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_02.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="377302525"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_02" ID="{2E6F3AF5-971A-49D9-B529-528E8576B665}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_03" ID="{D779169C-9BF2-4E5F-A3F2-914A9373E70E}" ShortID="223007759">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_03" ID="{A86BCB68-2DF2-4453-BD24-EEB71C1C9D6B}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_03.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="950891478"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_03" ID="{A86BCB68-2DF2-4453-BD24-EEB71C1C9D6B}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_04" ID="{5D8B2ED7-D2F0-40E2-80AB-51E7BA9C205C}" ShortID="465077505">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_04" ID="{5340EA55-0908-4DB4-B65A-140DCD856873}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_04.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="482757271"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_04" ID="{5340EA55-0908-4DB4-B65A-140DCD856873}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_05" ID="{EB05B583-00BD-45C4-AA99-510666F44B14}" ShortID="921545092">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_05" ID="{CEF6F1BB-B196-4264-B1E8-EF4FFF35CAE5}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_05.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="439126982"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_05" ID="{CEF6F1BB-B196-4264-B1E8-EF4FFF35CAE5}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_06" ID="{D69EC5BF-7323-45EB-9182-0D0DD67B9138}" ShortID="37641735">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_06" ID="{D4E24B42-C5A9-421D-9BEB-816AA5336A82}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_06.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="270831630"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_06" ID="{D4E24B42-C5A9-421D-9BEB-816AA5336A82}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_07" ID="{6316C017-B59F-499A-9FD0-92542E1AD560}" ShortID="858027961">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_07" ID="{BB077469-BCC5-43D0-8676-9485DDEF3605}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_07.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="28167302"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_07" ID="{BB077469-BCC5-43D0-8676-9485DDEF3605}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_grass_08" ID="{C1481B08-75D2-40AE-A9B3-A839F6D5CA60}" ShortID="555875784">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_grass_08" ID="{ED8735AE-932C-4A06-B3F4-9983C2459A45}">
+													<Language>SFX</Language>
+													<AudioFile>grass\ff_sfx_player_walk_grass_08.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="431261667"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_grass_08" ID="{ED8735AE-932C-4A06-B3F4-9983C2459A45}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="asphalt" ID="{B79E67D1-6332-400D-B6B4-C44FC584489D}" ShortID="286660986">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="ff_sfx_player_walk_asphalt_01" ID="{3DDDCC8D-4589-468D-912B-758E9C087633}" ShortID="1011626226">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_01" ID="{4ED5CD22-E284-4D73-892B-1663C61BC88C}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_01.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="228646681"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_01" ID="{4ED5CD22-E284-4D73-892B-1663C61BC88C}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_02" ID="{CFD5E5D0-99A0-4B65-AB1D-42848400D6EF}" ShortID="199058686">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_02" ID="{F9E17B29-992D-480C-865E-35CDFA11173C}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_02.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="1042498593"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_02" ID="{F9E17B29-992D-480C-865E-35CDFA11173C}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_03" ID="{4D0CD0C5-BBE8-4BB6-965C-626BCFD18296}" ShortID="97531021">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_03" ID="{781E1291-B03D-408B-BD02-6F833B528802}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_03.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="274251422"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_03" ID="{781E1291-B03D-408B-BD02-6F833B528802}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_04" ID="{10C0EE15-AA9E-4BF1-9C8E-AFDA0966CC81}" ShortID="870180543">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_04" ID="{8F56EA01-CA16-4191-A094-88C3263DA5DA}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_04.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="757220386"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_04" ID="{8F56EA01-CA16-4191-A094-88C3263DA5DA}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_05" ID="{4D44AA5D-A22A-44DA-8DDF-A1ECD6F560DE}" ShortID="254937542">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_05" ID="{FD1D580C-116C-4808-8476-5841AF65A617}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_05.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="788864872"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_05" ID="{FD1D580C-116C-4808-8476-5841AF65A617}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_06" ID="{0B3F9CCC-47B2-4197-998C-9548515B2324}" ShortID="386199010">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_06" ID="{7BCC8BA9-4F28-4BD5-9F7C-9B2EAFF6387C}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_06.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="109700862"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_06" ID="{7BCC8BA9-4F28-4BD5-9F7C-9B2EAFF6387C}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_07" ID="{1D958F51-DB11-4A08-9EF7-BAAAD827CA21}" ShortID="259618379">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_07" ID="{07BACD9A-E8C3-47AE-86E2-D3277F80CA45}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_07.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="692914416"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_07" ID="{07BACD9A-E8C3-47AE-86E2-D3277F80CA45}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_asphalt_08" ID="{94C6CB73-DB18-4404-AAA9-CED63D7035A0}" ShortID="453392057">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_asphalt_08" ID="{3C9F67B0-2890-42BF-9F7A-161351E28119}">
+													<Language>SFX</Language>
+													<AudioFile>asphalt\ff_sfx_player_walk_asphalt_08.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="347629506"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_asphalt_08" ID="{3C9F67B0-2890-42BF-9F7A-161351E28119}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="wood" ID="{CB6839B8-7922-49E6-8A87-2F9E0AE5B51D}" ShortID="774596580">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="ff_sfx_player_walk_wood_01" ID="{06602BE6-8D13-4DA7-A494-BA16CB066DF6}" ShortID="305953462">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_01" ID="{BC27248B-D4B6-4E71-870A-0664EEEFBFAD}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_01.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="604284163"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_01" ID="{BC27248B-D4B6-4E71-870A-0664EEEFBFAD}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_02" ID="{CA63355C-7CD2-48CD-8963-CE7388F10314}" ShortID="154110556">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_02" ID="{02685146-481E-4255-93CF-DC90CD5254DB}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_02.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="612577953"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_02" ID="{02685146-481E-4255-93CF-DC90CD5254DB}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_03" ID="{0DDB5D7F-C9A7-49F7-8B69-97F62962ADE8}" ShortID="929541752">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_03" ID="{A4DBFFD1-3B95-4340-9388-55CDF1E97C77}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_03.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="885942855"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_03" ID="{A4DBFFD1-3B95-4340-9388-55CDF1E97C77}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_04" ID="{9D46DD0C-5B44-4D8D-966D-D576E6AB5CBC}" ShortID="12851156">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_04" ID="{EBC85B00-5A75-4946-B0F0-395C2B05ADF5}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_04.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="637691765"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_04" ID="{EBC85B00-5A75-4946-B0F0-395C2B05ADF5}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_05" ID="{C01C7A64-0E2A-4B8E-A931-4F6CA4799868}" ShortID="67317318">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_05" ID="{40F58C6B-E9F1-480B-954C-4A4BAEF2BDDB}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_05.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="16863183"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_05" ID="{40F58C6B-E9F1-480B-954C-4A4BAEF2BDDB}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_06" ID="{EBA11B4D-AB08-4A9B-A7E4-75F3A3A8D39B}" ShortID="1048000080">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_06" ID="{B906C634-09D9-45AF-AFFE-933C6E424CAA}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_06.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="92756946"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_06" ID="{B906C634-09D9-45AF-AFFE-933C6E424CAA}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_07" ID="{9DC85167-1F56-4E95-B51B-53ECB7D9AE29}" ShortID="553674037">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_07" ID="{D356FF61-A260-4C51-B3C8-7784511E9AA3}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_07.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="110981135"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_07" ID="{D356FF61-A260-4C51-B3C8-7784511E9AA3}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_wood_08" ID="{9D82257B-0401-4532-9C56-DD6FC50C3B1E}" ShortID="42185554">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_wood_08" ID="{7F6C55C7-5FD7-4D48-AB51-BE1D2B5E8983}">
+													<Language>SFX</Language>
+													<AudioFile>wood\ff_sfx_player_walk_wood_08.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="884838490"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_wood_08" ID="{7F6C55C7-5FD7-4D48-AB51-BE1D2B5E8983}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="stone" ID="{6DD8C072-A5D0-473C-BED0-3E33D2A992A5}" ShortID="812007397">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="ff_sfx_player_walk_stone_01" ID="{F99E1484-5284-4D94-80D7-04AAAB1A3767}" ShortID="342389888">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_01" ID="{0A834975-23EA-4848-BC66-76CF0C8EE841}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_01.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="571936013"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_01" ID="{0A834975-23EA-4848-BC66-76CF0C8EE841}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_02" ID="{90A3F28C-F44C-4963-9283-39F7892878C2}" ShortID="24473145">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_02" ID="{3A979039-FF50-4069-BA66-885315B1CD0E}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_02.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="266214303"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_02" ID="{3A979039-FF50-4069-BA66-885315B1CD0E}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_03" ID="{9082D226-0A73-4EE4-B1B4-D04165A65E31}" ShortID="762716481">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_03" ID="{C1726CAA-F4BF-413B-974E-1F4E638F0FF2}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_03.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="281834585"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_03" ID="{C1726CAA-F4BF-413B-974E-1F4E638F0FF2}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_04" ID="{2398BEE4-D46F-46F1-8CFC-B1111704B488}" ShortID="540831254">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_04" ID="{165F66A2-2709-43BC-8CF2-32F55E426D7A}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_04.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="108559299"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_04" ID="{165F66A2-2709-43BC-8CF2-32F55E426D7A}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_05" ID="{61956569-22B9-4262-86E2-63CF3D0601B1}" ShortID="43402240">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_05" ID="{B9057EFC-D76D-4221-A125-B649AE8FCE43}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_05.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="787918519"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_05" ID="{B9057EFC-D76D-4221-A125-B649AE8FCE43}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_06" ID="{9F6385AF-C91A-465E-BD0C-E5CFEB18E25C}" ShortID="288755313">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_06" ID="{0E7898AF-0D31-4273-A65B-2F391FF2B625}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_06.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="167709696"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_06" ID="{0E7898AF-0D31-4273-A65B-2F391FF2B625}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_07" ID="{84CA3121-E63B-4EC4-9202-B182170769BC}" ShortID="750490849">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_07" ID="{91DA50C3-EF0E-4ACA-9916-5B379AC0B5A9}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_07.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="857220795"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_07" ID="{91DA50C3-EF0E-4ACA-9916-5B379AC0B5A9}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_stone_08" ID="{47FAAAD8-1F0D-445A-959D-114992606E73}" ShortID="881162741">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_stone_08" ID="{F3E7948B-B292-456E-A53C-6A8C94203390}">
+													<Language>SFX</Language>
+													<AudioFile>stone\v02\ff_sfx_player_walk_stone_08.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="326781308"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_stone_08" ID="{F3E7948B-B292-456E-A53C-6A8C94203390}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="dirt" ID="{165AD3D8-7456-45A9-9BE8-9F59FD41677D}" ShortID="395439148">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="ff_sfx_player_walk_dirt_01" ID="{D9659AEF-90F8-478C-9F51-26C278DA0D30}" ShortID="785422245">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_01" ID="{B68D7746-A88E-4FDD-82E5-C9F2606F837E}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_01.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="219851722"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_01" ID="{B68D7746-A88E-4FDD-82E5-C9F2606F837E}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_02" ID="{C1A80C8E-9DFF-43F7-8298-F6FBC1CFEE01}" ShortID="571909374">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_02" ID="{2D4A12AE-2E29-4E02-BBC7-F9A1423FBDBB}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_02.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="936380888"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_02" ID="{2D4A12AE-2E29-4E02-BBC7-F9A1423FBDBB}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_03" ID="{C335C8E2-C0D5-4312-AA32-D0B2F878C1AE}" ShortID="778491932">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_03" ID="{2166685D-767F-436D-812A-933DE32C03D8}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_03.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="635724573"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_03" ID="{2166685D-767F-436D-812A-933DE32C03D8}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_04" ID="{4480034F-88B1-4924-B40B-721C0C5DF819}" ShortID="481929199">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_04" ID="{DB6D8DF9-B734-4319-8D03-8799C269EC23}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_04.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="551836379"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_04" ID="{DB6D8DF9-B734-4319-8D03-8799C269EC23}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_05" ID="{28F34C3B-E6C1-4EB8-A14E-C60A28AE1711}" ShortID="235039249">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_05" ID="{01B1A494-3220-4837-BA7C-4C9144CD4395}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_05.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="423246753"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_05" ID="{01B1A494-3220-4837-BA7C-4C9144CD4395}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_06" ID="{7EDEB483-7902-4E9D-B074-88160EEE6FC9}" ShortID="1068210440">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_06" ID="{AA3204A0-3FD4-476C-820D-654DF71967D3}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_06.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="613196266"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_06" ID="{AA3204A0-3FD4-476C-820D-654DF71967D3}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_07" ID="{6AABCBD5-CCDF-4A9B-84B3-9634AAA23B9F}" ShortID="873469902">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_07" ID="{E068196E-7876-480C-98C4-BB7A72304541}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_07.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="774191922"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_07" ID="{E068196E-7876-480C-98C4-BB7A72304541}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="ff_sfx_player_walk_dirt_08" ID="{068E10F7-25C7-4A1B-9A16-0888D3404F49}" ShortID="602316989">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ff_sfx_player_walk_dirt_08" ID="{ADCA87CD-84BB-4A23-9396-CC0411403302}">
+													<Language>SFX</Language>
+													<AudioFile>dirt\ff_sfx_player_walk_dirt_08.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="507882214"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="ff_sfx_player_walk_dirt_08" ID="{ADCA87CD-84BB-4A23-9396-CC0411403302}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</RandomSequenceContainer>
+							</ChildrenList>
+							<GroupingInfo>
+								<GroupingBehaviorList>
+									<GroupingBehavior>
+										<ItemRef Name="stone" ID="{6DD8C072-A5D0-473C-BED0-3E33D2A992A5}"/>
+									</GroupingBehavior>
+									<GroupingBehavior>
+										<ItemRef Name="wood" ID="{CB6839B8-7922-49E6-8A87-2F9E0AE5B51D}"/>
+									</GroupingBehavior>
+									<GroupingBehavior>
+										<ItemRef Name="asphalt" ID="{B79E67D1-6332-400D-B6B4-C44FC584489D}"/>
+									</GroupingBehavior>
+									<GroupingBehavior>
+										<ItemRef Name="dirt" ID="{165AD3D8-7456-45A9-9BE8-9F59FD41677D}"/>
+									</GroupingBehavior>
+									<GroupingBehavior>
+										<ItemRef Name="grass" ID="{6C6239DE-5A1B-4EB4-9779-882400F331B7}"/>
+									</GroupingBehavior>
+								</GroupingBehaviorList>
+								<GroupingList>
+									<Grouping>
+										<SwitchRef Name="asphalt" ID="{7C31F82C-9444-4CE0-9982-87A73E9F1341}"/>
+										<ItemList>
+											<ItemRef Name="asphalt" ID="{B79E67D1-6332-400D-B6B4-C44FC584489D}"/>
+										</ItemList>
+									</Grouping>
+									<Grouping>
+										<SwitchRef Name="stone" ID="{5341C580-8977-4DBA-931F-DF5848B57F0F}"/>
+										<ItemList>
+											<ItemRef Name="stone" ID="{6DD8C072-A5D0-473C-BED0-3E33D2A992A5}"/>
+										</ItemList>
+									</Grouping>
+									<Grouping>
+										<SwitchRef Name="dirt" ID="{E071EE84-7502-4A94-BDAD-0F515100493F}"/>
+										<ItemList>
+											<ItemRef Name="dirt" ID="{165AD3D8-7456-45A9-9BE8-9F59FD41677D}"/>
+										</ItemList>
+									</Grouping>
+									<Grouping>
+										<SwitchRef Name="wood" ID="{6FBE0199-7CE2-4840-8547-563D8B88C1B1}"/>
+										<ItemList>
+											<ItemRef Name="wood" ID="{CB6839B8-7922-49E6-8A87-2F9E0AE5B51D}"/>
+										</ItemList>
+									</Grouping>
+									<Grouping>
+										<SwitchRef Name="grass" ID="{C140159D-67FD-4D9E-A40D-21B99C49A2BF}"/>
+										<ItemList>
+											<ItemRef Name="grass" ID="{6C6239DE-5A1B-4EB4-9779-882400F331B7}"/>
+										</ItemList>
+									</Grouping>
+								</GroupingList>
+							</GroupingInfo>
+						</SwitchContainer>
+					</ChildrenList>
+				</PropertyContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>

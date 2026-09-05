@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{223DA7B1-D668-41F6-BFAB-51E45B03C8D6}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{223DA7B1-D668-41F6-BFAB-51E45B03C8D6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_ff_sfx_farm_action_axe" ID="{95930C94-BEAC-4D84-8A30-791817874134}">
+					<ChildrenList>
+						<Action Name="" ID="{D4728D81-B817-44D5-8C2A-3EF02A2076B5}" ShortID="641038508">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_axe" ID="{F495866C-2211-447B-A114-6BAF419D7FE0}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_hammer" ID="{32ECF80E-4981-494D-9AF4-705C8A8C2713}">
+					<ChildrenList>
+						<Action Name="" ID="{45EB7939-A683-4F89-AE02-776A11DC03A4}" ShortID="580467744">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_hammer" ID="{446360AF-E185-4B58-AB82-72BB612D94C8}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_harvest" ID="{AF10D8E8-BFF8-481D-A322-D0B3A9FCE85F}">
+					<ChildrenList>
+						<Action Name="" ID="{D14A2754-1F46-4DFC-8DD3-2E56DF99DC4C}" ShortID="691165300">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_harvest" ID="{148432D2-46E1-412A-BCA1-E3A4511BE95E}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_hoe" ID="{8328EDE6-E9BF-4DA7-BCAD-B9BB681C52B9}">
+					<ChildrenList>
+						<Action Name="" ID="{704CA8F8-333A-4A97-A073-EEA8989B594B}" ShortID="558996475">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_hoe" ID="{AE47F3ED-4689-4B5F-9395-359ED5F70B17}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_pickaxe" ID="{5E0A8CFB-F905-4AA9-83E7-4FDF48D59A4D}">
+					<ChildrenList>
+						<Action Name="" ID="{26212467-C3DD-4C31-8BC6-64A551B9E132}" ShortID="580448420">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_pickaxe" ID="{772C1957-B0F3-4B27-AECB-134175494F4B}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_seed" ID="{1BB2AC50-4FFF-4875-AE37-AA40DCD17B65}">
+					<ChildrenList>
+						<Action Name="" ID="{41F8E77B-A5BA-47B0-B909-9E1FEA3C38C1}" ShortID="39089483">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_seed" ID="{CD20A90D-F46D-45A7-B21E-DB0D593E26F1}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_shovel" ID="{99F0E074-4F57-4F8F-B5FA-6E7B5AF4DAE8}">
+					<ChildrenList>
+						<Action Name="" ID="{AA999CDB-280D-4948-8582-384E4D72E55E}" ShortID="910763329">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_shovel" ID="{2F43C2AD-29AE-444B-A1DC-4EBE85F9861C}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_sfx_farm_action_sickle" ID="{4D60F5C8-AC06-4ED5-9F73-6DA727B6E9ED}">
+					<ChildrenList>
+						<Action Name="" ID="{CFEE4607-5AF8-4D31-90A8-EA3287635ABB}" ShortID="780957633">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_sfx_farm_action_sickle" ID="{943548EA-F947-4099-B1ED-F4CDBD3C019F}" WorkUnitID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ff_amb_farm_bed_lp" ID="{CCB1CDDB-2D53-49BC-BF4E-996CE98783D3}">
+					<ChildrenList>
+						<Action Name="" ID="{1B00102C-1E3C-4973-9E6E-11F77A3E870A}" ShortID="861938215">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ff_amb_farm_bed_lp" ID="{7B1EF748-F165-46CF-BE91-748BA5AAADD1}" WorkUnitID="{95475F55-5D70-4CBD-8DF8-9E57D257DC6F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_footstep" ID="{5CD30E02-4204-4ABA-9B09-8FDA2A7C0F59}">
+					<ChildrenList>
+						<Action Name="" ID="{B90ABA7F-C39C-4081-9B89-47CE4EDF111A}" ShortID="1045649442">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep" ID="{6FECC6B7-2C8C-471A-BC0F-D382A06B4D84}" WorkUnitID="{88F9395B-3065-4C9A-AA17-DB17C8C2E681}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

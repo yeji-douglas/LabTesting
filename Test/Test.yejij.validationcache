@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="133">
+	<ValidationCacheItem File="C:\Users\yejij\AppData\Roaming\Audiokinetic\MediaPool\2\MediaPoolDatabases.wsettings" DateLow="1782159872" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\AppData\Roaming\Audiokinetic\MediaPool\2\MediaPoolQuery.wsettings" DateLow="1788560920" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Attenuations\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Attenuations\Factory Attenuations.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Busses\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Containers\Default Work Unit.wwu" DateLow="1788544328" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Containers\Group 1.wwu" DateLow="1788544538" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Containers\Group 2.wwu" DateLow="1788544538" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Containers\Group 3.wwu" DateLow="1788544625" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Control Surface Sessions\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Conversion Settings\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Devices\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Effects\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Effects\Factory Effects.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Events\Default Work Unit.wwu" DateLow="1788544636" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Game Parameters\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Metadata\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Mixing Sessions\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Modulators\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Presets\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Presets\Factory Spatial Audio.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Queries\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Queries\Factory Queries.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Sidechain Mixes\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\SoundBanks\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\States\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Switches\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Switches\sfx.wwu" DateLow="1788544602" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Test.wproj" DateLow="1788544577" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Test.yejij.wsettings" DateLow="1788560920" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Triggers\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\github\Test\Virtual Acoustics\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Attenuations\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Attenuations\Factory Attenuations.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Busses\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Containers\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Control Surface Sessions\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Conversion Settings\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Devices\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Effects\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Effects\Factory Effects.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Events\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Game Parameters\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Metadata\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Mixing Sessions\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Modulators\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Presets\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Presets\Factory Spatial Audio.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Queries\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Queries\Factory Queries.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Sidechain Mixes\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\SoundBanks\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\States\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Switches\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Test.wproj" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Test.yejij.wsettings" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Triggers\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\yejij\Documents\Test\Test\Test\Virtual Acoustics\Default Work Unit.wwu" DateLow="1788544285" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Attenuations\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Attenuations\Factory Attenuations.wwu" DateLow="1777435269" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Busses\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Containers\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Control Surface Sessions\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Conversion Settings\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1777435269" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Devices\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Effects\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Effects\Factory Effects.wwu" DateLow="1777435269" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Events\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Game Parameters\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Metadata\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Mixing Sessions\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Modulators\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Presets\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Presets\Factory Spatial Audio.wwu" DateLow="1777435269" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Queries\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Queries\Factory Queries.wwu" DateLow="1777435269" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Sidechain Mixes\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\SoundBanks\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\States\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Switches\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Test.wproj" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Triggers\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise\Test\Virtual Acoustics\Default Work Unit.wwu" DateLow="1788541992" DateHigh="0"/>
+</ValidationCache>

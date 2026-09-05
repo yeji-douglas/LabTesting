@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Group 1" ID="{3599E887-5AA1-49EC-99EB-F535321DD0B9}" PersistMode="Standalone">
+			<ChildrenList>
+				<PropertyContainer Name="action" ID="{F583844D-12A2-4B2B-A89E-095F618E70A8}" ShortID="550428701">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="ff_sfx_farm_action_axe" ID="{F495866C-2211-447B-A114-6BAF419D7FE0}" ShortID="340876398">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_axe" ID="{9CCA63FA-8571-42A0-9CB3-2423B22BA1EA}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_axe.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1022872521"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_axe" ID="{9CCA63FA-8571-42A0-9CB3-2423B22BA1EA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_hammer" ID="{446360AF-E185-4B58-AB82-72BB612D94C8}" ShortID="421798371">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_hammer" ID="{4DB4036E-AC80-409D-94D9-E805530BBC11}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_hammer.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1028375060"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_hammer" ID="{4DB4036E-AC80-409D-94D9-E805530BBC11}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_harvest" ID="{148432D2-46E1-412A-BCA1-E3A4511BE95E}" ShortID="510012488">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_harvest" ID="{2E98D408-EA5A-4B0C-867F-D00D781199A5}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_harvest.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="356614208"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_harvest" ID="{2E98D408-EA5A-4B0C-867F-D00D781199A5}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_hoe" ID="{AE47F3ED-4689-4B5F-9395-359ED5F70B17}" ShortID="347758833">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_hoe" ID="{DF4911FA-AFC7-4E1D-BF4C-EB57E16F89A5}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_hoe.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="865098390"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_hoe" ID="{DF4911FA-AFC7-4E1D-BF4C-EB57E16F89A5}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_pickaxe" ID="{772C1957-B0F3-4B27-AECB-134175494F4B}" ShortID="476912036">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_pickaxe" ID="{2A0CB110-C895-4027-86B4-2264E2792F13}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_pickaxe.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="366129806"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_pickaxe" ID="{2A0CB110-C895-4027-86B4-2264E2792F13}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_seed" ID="{CD20A90D-F46D-45A7-B21E-DB0D593E26F1}" ShortID="443735453">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_seed" ID="{82B991FD-CC4E-46C7-9079-E17B8D5A215A}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_seed.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="367668356"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_seed" ID="{82B991FD-CC4E-46C7-9079-E17B8D5A215A}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_shovel" ID="{2F43C2AD-29AE-444B-A1DC-4EBE85F9861C}" ShortID="910091829">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_shovel" ID="{D4F99C6C-8FB4-407E-83EE-F32E773838A6}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_shovel.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="422775578"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_shovel" ID="{D4F99C6C-8FB4-407E-83EE-F32E773838A6}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="ff_sfx_farm_action_sickle" ID="{943548EA-F947-4099-B1ED-F4CDBD3C019F}" ShortID="740925472">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0D6724A9-99F6-4935-88D5-9C8CFD83A981}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B881D534-38D7-4907-A821-52A14D16709A}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ff_sfx_farm_action_sickle" ID="{62106A99-72D9-487E-BC29-1C77F97F2B2F}">
+									<Language>SFX</Language>
+									<AudioFile>ff_sfx_farm_action_sickle.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="908879674"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ff_sfx_farm_action_sickle" ID="{62106A99-72D9-487E-BC29-1C77F97F2B2F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</PropertyContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>
