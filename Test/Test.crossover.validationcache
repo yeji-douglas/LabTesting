@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="133">
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Attenuations\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Attenuations\Factory Attenuations.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Busses\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Containers\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Containers\Group 1.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Containers\Group 2.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Containers\Group 3.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Control Surface Sessions\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Conversion Settings\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Devices\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Effects\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Effects\Factory Effects.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Events\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Game Parameters\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Metadata\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Mixing Sessions\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Modulators\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Presets\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Presets\Factory Spatial Audio.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Queries\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Queries\Factory Queries.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Sidechain Mixes\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\SoundBanks\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\States\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Switches\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Switches\sfx.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Test.wproj" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Triggers\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\LabTesting\Test\Virtual Acoustics\Default Work Unit.wwu" DateLow="1788568022" DateHigh="0"/>
+</ValidationCache>
